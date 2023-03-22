@@ -1,0 +1,18 @@
+---
+summary:
+  name: Smoke
+  author: Ish
+  info: Colorful smoke
+
+colors:
+  PRIMARY1:   0x000000
+  PRIMARY2:   0xF8FCF8
+  PRIMARY3:   0x000000
+  SECONDARY1: 0xF87C00
+  SECONDARY2: 0xF8FCF8
+  SECONDARY3: 0xF8FCF8
+  FOCUS:      0x204888
+  EDIT:       0x009808
+  ACTIVE:     0xF8DC00
+  WARNING:    0xE00000
+  DISABLED:   0x888C88

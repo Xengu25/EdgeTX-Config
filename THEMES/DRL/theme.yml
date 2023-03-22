@@ -1,0 +1,18 @@
+---
+summary:
+  name: DRL
+  author: RadioMaster
+  info: DRL Custom
+
+colors:
+  PRIMARY1:   0xF80000
+  PRIMARY2:   0x000000
+  PRIMARY3:   0xF8FCF8
+  SECONDARY1: 0xF80000
+  SECONDARY2: 0xF8FCF8
+  SECONDARY3: 0x000000
+  FOCUS:      0xF8FCF8
+  EDIT:       0xF80000
+  ACTIVE:     0xF0FCF0
+  WARNING:    0xF8FCF8
+  DISABLED:   0x484C48
